@@ -1,11 +1,14 @@
 # Modify this portfolio
 
-##lab 05##
-Number and name of feature: ________________________________
+https://rpap-portfolio.netlify.app/
 
-Estimate of time needed to complete: _____
+## lab 05 ##
+Number and name of feature:
+Intial Set Up
 
-Start time: _____
+Estimate of time needed to complete: 3 Hours
+
+Start time: 2:30
 
 Finish time: _____
 
