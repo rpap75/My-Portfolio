@@ -1,7 +1,8 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Ryan Papsin. I am a newly graduated full-stack software developer with a specialty in Java.I served in the US Army for over 11 years and retired as a Sergeant First Class. In the military, I was able to learn how to be part of a team and manage a team. Every task that I was givenhell had two things in common; overcoming obstacles, whether that be physical or mental, and problem-solving.I most recently worked as a barber for three years and won a Barber Battle in 2021. Before leaving due to medical reasons I had a full cliental schedule. In barbering, I learned how to apply my problem-solving skills and creativity to a new line of work.I hope to bring what I've learned from the military and barbering and apply it to software development.I'm extremely fascinated with coding and eager to start work.I am seeking a full-time software developer position.I'd love to be an asset to your team.Thank you.","section_name": {
+    "description": "👋 I'm Ryan Papsin. I am a newly graduated full-stack software developer with a specialty in Java.I served in the US Army for over 11 years and retired as a Sergeant First Class. In the military, I was able to learn how to be part of a team and manage a team. Every task that I was givenhell had two things in common; overcoming obstacles, whether that be physical or mental, and problem-solving.I most recently worked as a barber for three years and won a Barber Battle in 2021. Before leaving due to medical reasons I had a full cliental schedule. In barbering, I learned how to apply my problem-solving skills and creativity to a new line of work.I hope to bring what I've learned from the military and barbering and apply it to software development.I'm extremely fascinated with coding and eager to start work.I am seeking a full-time software developer position.I'd love to be an asset to your team.Thank you.",
+    "section_name": {
       "about": "About me",
       "projects": "Projects",
       "skills": "Skills",
@@ -10,8 +11,8 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
+      "title": "Final Project",
+      "startDate": "2022",
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
@@ -34,9 +35,9 @@
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Recipe Blogger",
+      "startDate": "2022",
+      "description": "First team project. I was responsible for making a notes section that utilized the DOM and for the CSS. I've earned A grade :)",
       "images": [
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
@@ -54,12 +55,12 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Salmon Cookies",
+      "startDate": "2022",
+      "description": "I will be replacing this with a newer project",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/salmon/p1.jpg",
+        "images/portfolio/salmon/p2.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
