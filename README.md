@@ -10,9 +10,9 @@ Estimate of time needed to complete: 3 Hours
 
 Start time: 2:30
 
-Finish time: _____
+Finish time: 7:30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 5 hours
 
 
 Photo by <a href="https://unsplash.com/@wasdrew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andras Vas</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
