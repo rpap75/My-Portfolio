@@ -24,10 +24,10 @@ html {
 	font-size: 250%;
 }
 
-.header-icon {
-	height: 150px;
-	width: 150px;
-}
+// .header-icon {
+// 	height: 150px;
+// 	width: 150px;
+// }
 
 header {
 	position: relative;
@@ -122,6 +122,8 @@ header h1 {
 	text-align: center;
 	font-weight: 600 !important;
 	color: #353239;
+	-webkit-text-stroke-width: .5px;
+	-webkit-text-stroke-color: red;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -146,7 +148,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: skyblue;
 	overflow: hidden;
 }
 
@@ -379,7 +381,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: cornflowerblue;
 	padding-bottom: 5%;
 }
 
